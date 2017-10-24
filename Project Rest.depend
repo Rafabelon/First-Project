@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508788152 source:d:\project rest\bib_clientes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"bib_clientes.h"
+
+1508788152 d:\project rest\bib_clientes.h
+
+1508788032 source:d:\project rest\main.c
+	<stdio.h>
+	"bib_clientes.h"
+
